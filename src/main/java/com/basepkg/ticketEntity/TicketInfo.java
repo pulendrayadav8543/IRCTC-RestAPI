@@ -1,4 +1,4 @@
-package com.ashokit.ticketEntity;
+package com.basepkg.ticketEntity;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;

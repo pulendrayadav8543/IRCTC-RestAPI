@@ -1,4 +1,4 @@
-package com.ashokit.rest;
+package com.basepkg.rest;
 
 import org.apache.catalina.connector.Response;
 import org.springframework.beans.factory.annotation.Autowired;

@@ -1,4 +1,4 @@
-package com.ashokit.repo;
+package com.basepkg.repo;
 
 import java.io.Serializable;
 

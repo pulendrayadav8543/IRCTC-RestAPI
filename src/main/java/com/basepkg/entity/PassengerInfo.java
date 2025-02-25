@@ -1,4 +1,4 @@
-package com.ashokit.entity;
+package com.basepkg.entity;
 
 import com.ashokit.ticketEntity.TicketInfo;
 

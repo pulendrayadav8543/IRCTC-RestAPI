@@ -1,4 +1,4 @@
-package com.ashokit.service;
+package com.basepkg.service;
 
 import com.ashokit.entity.PassengerInfo;
 import com.ashokit.ticketEntity.TicketInfo;

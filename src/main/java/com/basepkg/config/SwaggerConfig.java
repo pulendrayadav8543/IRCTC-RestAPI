@@ -1,4 +1,4 @@
-package com.ashokit.config;
+package com.basepkg.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
